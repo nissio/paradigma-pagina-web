@@ -2377,7 +2377,7 @@ a.fg-light:hover, a.fg-light:focus {
 
 .owl-carousel .owl-dots {
   display: block;
-  margin: 16px auto;
+  margin: -8px auto;
   text-align: center;
 }
 
